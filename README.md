@@ -28,3 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steffila&show_icons=true&locale=en&layout=compact" alt="steffila" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steffila&show_icons=true&locale=en" alt="steffila" /></p>
+
+
+<img src="https://raw.githubusercontent.com/Steffila/Steffila/output/snake.svg" alt="Snake animation" />
+
+
