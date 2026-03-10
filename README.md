@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolin Steffila.R</h1>
-<h3 align="center">A dedicated Full Stack Developer,currently based in Dubai. Skilled in building responsive and user-centric web applications using Angular and .NET Core, with hands-on experience from real-world projects and professional training</h3>
+<h3 align="center">A dedicated Full Stack Developer skilled in building responsive and user-centric web applications using Java, Angular and .NET Core, with hands-on experience from real-world projects and professional training</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steffila&label=Profile%20views&color=0e75b6&style=flat" alt="steffila" /> </p>
 
