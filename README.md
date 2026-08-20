@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **carolinesteffila@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/carolinsteffila](www.linkedin.com/in/carolinsteffila)
+- 📄 Know about my experiences [https://www.linkedin.com/in/carolinsteffila](https://www.linkedin.com/in/carolinsteffila)
 
 - ⚡ Fun fact **Watching Cricket**
 
